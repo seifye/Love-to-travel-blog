@@ -2,7 +2,7 @@
 
 ## Project 1 - Personal Blog Website (Front End Developer Udacity Nanodegree)
 
-### created with HTML, CSS
+### Created with HTML and CSS
 
 ### Project Objective
 The objective was to practice HTML and CSS skills and build out a personal blog website, including custom images, layout, and styling. Along with webpage design considerations, I had to ensure correct file structure, and proper CSS and HTML formatting & style.
