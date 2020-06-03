@@ -18,6 +18,6 @@ For this project I had to:
 
 
 ### Result 
-<img src='screenshots/homepage.png'
+<img src='screenshots/homepage.png'>
 ![About Page]
 
