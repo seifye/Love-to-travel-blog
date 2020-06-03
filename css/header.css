@@ -1,0 +1,30 @@
+
+/* Header */
+
+
+h1 {
+    font-size: 20px;
+    color: brown;
+    font-family: 'Petit Formal Script', cursive; 
+    display: flex;
+}
+
+
+span {
+    font-size: 15px;
+    font-family: 'Finger Paint', cursive;
+}
+
+
+blockquote {
+    font-size: 10px;
+    font-family: 'Finger Paint', cursive;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+blockquote > p {
+    margin: 0px;
+    font-size: 13px;
+}

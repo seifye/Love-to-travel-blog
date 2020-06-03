@@ -1,0 +1,66 @@
+
+/* Navigator css */
+
+
+#cont-flex {
+    margin: 0px;
+    background-color: rgba(245, 222, 179, 0.329);
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.img-logo {
+    display: flex;
+    opacity: 0.8;
+    width: 150px;
+    height: 50px;
+    margin: auto 0;    
+}
+
+
+#logo {
+    display: block;
+    border-radius: 5px;
+    border: solid 1px yellowgreen;
+    width: 90%;
+    height: 90%;
+    margin: auto;
+    opacity: 0.6;
+}
+
+
+nav {
+    display: flex;
+}
+
+.navigate-links {
+    display: flex;
+    list-style-type: none;
+    margin: auto;
+}
+
+
+.navigate-links > li {
+    display: block;
+    margin: 0px 5px;
+    padding: 10px;
+}
+
+
+.navigate-link {
+    display: block;
+    font-size: 1.3rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: rgb(3, 4, 83);
+}
+
+
+.navigate-links > li:hover {
+    background-color: yellowgreen;
+    border: solid 1px yellowgreen;
+    border-radius: 5px;
+    color: blue;
+    opacity: 0.5;
+}

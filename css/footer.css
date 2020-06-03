@@ -1,0 +1,55 @@
+
+/* footer */
+
+#ft {
+    font-size: 0.9em;
+    margin: 0px;
+    width: 100%;
+    height: auto;
+    background-color: black;
+    color: wheat;
+}
+
+.contact-links {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    justify-items: center;
+}
+
+i {
+    padding: 5px;
+}
+
+i:hover {
+    background-color: blueviolet;
+    border-radius: 5px;
+}
+section div a {
+    text-decoration: none;
+    color: yellowgreen;
+    margin: 15px;
+}
+
+.horizontal-line {
+    margin: auto 20px;
+}
+
+#credits{
+    margin: auto 5px;
+} 
+
+
+.bottom-part {
+    margin: 0 5px;
+    font-size: 0.7em;
+    font-weight: 100;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    align-content: center;
+}
+
+.contact-details {
+    margin: 10px;
+}
