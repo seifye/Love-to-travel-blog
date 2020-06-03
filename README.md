@@ -17,7 +17,9 @@ For this project I had to:
 * Test
 
 
-### Result 
+### Result (Homepage) 
 <img src='screenshots/homepage.png'>
-![About Page]
+
+### Result (Blog page) 
+<img src='screenshots/blog.png'>
 
